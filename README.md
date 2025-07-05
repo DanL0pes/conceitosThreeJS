@@ -1,6 +1,6 @@
 # Conceitos Three.js
 
-Um projeto de estudo focado nos conceitos fundamentais do framework Three.js para renderização 3D em JavaScript.
+Um projeto de estudo focado nos conceitos fundamentais do biblioteca Three.js para renderização 3D em JavaScript.
 
 O objetivo foi criar uma cena, com um objeto 3d, para aplicar os aprendizados iniciais. O resultado foi:
 
